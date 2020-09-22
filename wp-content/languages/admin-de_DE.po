@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.5.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-09-09 20:03:16+0000\n"
+"PO-Revision-Date: 2020-09-21 06:55:42+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14114,7 +14114,7 @@ msgstr "Altes Theme konnte nicht entfernt werden."
 #: wp-admin/includes/class-theme-upgrader.php:61
 #: wp-admin/includes/class-theme-upgrader.php:78
 msgid "Removing the old version of the theme&#8230;"
-msgstr "Entfernung der alten Version des Themes&#160;&hellip;"
+msgstr "Die alte Version des Themes wird entfernt&#160;&hellip;"
 
 #: wp-admin/includes/class-theme-upgrader.php:56
 msgid "The theme is at the latest version."
@@ -14144,7 +14144,7 @@ msgstr "Altes Plugin konnte nicht entfernt werden."
 
 #: wp-admin/includes/class-plugin-upgrader.php:62
 msgid "Removing the old version of the plugin&#8230;"
-msgstr "Entfernung der alten Version des Plugins&#160;&hellip;"
+msgstr "Die alte Version des Plugins wird entfernt&#160;&hellip;"
 
 #: wp-admin/includes/class-plugin-upgrader.php:61
 #: wp-admin/includes/class-theme-upgrader.php:60
